@@ -1,5 +1,5 @@
 ## Summary
-The ITSI Content Pack for NetScaler from Kinney Group is specifically designed to monitor the health and performance of NetScaler systems. It leverages Splunk ITSI to provide in-depth analysis and visualization of logs for NetScaler, ensuring critical systems are operating optimally. This content pack is an essential tool for IT professionals looking to enhance the reliability and performance of their NetScaler infrastructure.
+The ITSI Content Pack for NetScaler from Presidio Splunk Solutions is specifically designed to monitor the health and performance of NetScaler systems. It leverages Splunk ITSI to provide in-depth analysis and visualization of logs for NetScaler, ensuring critical systems are operating optimally. This content pack is an essential tool for IT professionals looking to enhance the reliability and performance of their NetScaler infrastructure.
 
 * Comprehensive System Health Monitoring: Offers detailed insights into the overall health and performance of the NetScaler system, including software, hardware, and network interfaces.
 * Enhanced Security and Observability: Monitors security incidents, patch compliance, and intrusion detection alerts, while ensuring effective logging and observability.
@@ -7,14 +7,14 @@ The ITSI Content Pack for NetScaler from Kinney Group is specifically designed t
 
 This ITSI Content Pack is open source and available for community collaboration and enhancement on [GitHub](https://www.github.com/kinneygroup).
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas).
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://kinneygroup.com/atlas).
 
 ## Details
 The ITSI Content Pack for NetScaler contains service definitions and KPIs ready to import to ITSI. The KPI Thresholds and importance values are set to defaults so that they can be tuned manually for your use case. After configuration, this content pack provides a comprehensive view of the NetScaler system's health, performance, and security.
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas).
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://kinneygroup.com/atlas).
 
 ### Services
 NetScaler monitoring encompasses several specialized services, each targeting specific aspects of system performance:
@@ -172,26 +172,27 @@ Some services form a hierarchy, such as Software Health depending on KPIs like S
 
 ## Troubleshooting
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
 
 [Github and Readme](https://www.github.com/kinneygroup)
 
-support@kinneygroup.com
+atlassupport@presidio.com
 
 ## Contact
 
 To provide feedback, visit our [Github and Readme](https://www.github.com/kinneygroup) for our content packs.
 
-support@kinneygroup.com
+atlassupport@presidio.com
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas)
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://kinneygroup.com/atlas)
 
 ## Version History
 
 | Version | Date  | Description               |
 |---------|-------|---------------------------|
 | 0.0.1   | 05/29/24 | Initial Preview Release   |
+| 1.0.0   | 05/20/25 | Documentation Update |
 
 ## Considerations:
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
